@@ -85,7 +85,7 @@ public class task6 {
         }
         else System.out.println("Этот ноутбук уже зарезервирован");
     }
-    @Override
+   
     public String toString(){
         StringBuilder sb = new StringBuilder();
         sb.append("Ноутбук ");
