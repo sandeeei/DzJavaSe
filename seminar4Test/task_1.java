@@ -22,4 +22,4 @@ public class task_1 {
         return num;
     }
 }
-}
+
